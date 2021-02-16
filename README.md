@@ -1,4 +1,4 @@
-[[Build Status](https://sudarsanam.visualstudio.com/demo-cn/_apis/build/status/charyulu.pipelines-java?branchName=master)](https://sudarsanam.visualstudio.com/demo-cn/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://sudarsanam.visualstudio.com/demo-cn/_apis/build/status/charyulu.pipelines-java?branchName=master)](https://sudarsanam.visualstudio.com/demo-cn/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
